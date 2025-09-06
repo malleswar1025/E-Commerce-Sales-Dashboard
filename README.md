@@ -83,7 +83,8 @@ This dashboard provides actionable insights to:
 ---
 
 ## **📷 Dashboard Preview**
-![Dashboard Preview](./Dashboard_Preview.png)
+![Dashboard Preview](images/Dashboard_Preview.png)
+
 
 ---
 
