@@ -90,4 +90,4 @@ This dashboard provides actionable insights to:
 
 ## **👤 Author**
 **S S N Malleswar**  
-* Passionate about turning data into actionable insights*
+* Passionate about turning data into actionable insights
