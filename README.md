@@ -83,7 +83,7 @@ This dashboard provides actionable insights to:
 ---
 
 ## **📷 Dashboard Preview**
-![Dashboard Preview](images/Dashboard_Preview.png)
+![Dashboard Preview](E-Commerce-Sales-Dashboard/images/Dashboard_Preview.png)
 
 
 ---
